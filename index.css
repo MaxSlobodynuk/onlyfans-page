@@ -66,6 +66,7 @@ img {
   max-width: 336px;
   height: auto;
   border: 1px solid #8e8f99;
+  background-color: rgba(0, 0, 0, 0.5);
   border-radius: 30px;
   padding-top: 16px;
   padding-bottom: 20px;
